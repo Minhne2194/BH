@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.14
+Created-By: 21.0.1+12-LTS-29 (Oracle Corporation)
+Class-Path: lib/AbsoluteLayout.jar lib/jaxb-api-2.3.0.jar lib/jaxb-imp
+ l.jar lib/jaxb-xjc.jar lib/activation.jar lib/jaxb-api.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: View.LoginGUI
+
